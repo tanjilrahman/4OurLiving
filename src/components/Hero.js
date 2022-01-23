@@ -51,12 +51,12 @@ const Hero = () => {
           <img
             src={arrow}
             alt="arrow"
-            className="hidden lg:block absolute top-1 left-72"
+            className="hidden md:block absolute md:w-96 lg:w-auto md:top-1 md:left-48 lg:top-1 lg:left-72"
           />
           <img
             src={star}
             alt="star"
-            className="hidden lg:block absolute top-16 right-28 z-20"
+            className="absolute w-9 md:w-11 lg:w-auto bottom-[150px] right-10 md:top-11 md:right-20 lg:top-16 lg:right-28 z-20"
           />
           <img
             src={star}

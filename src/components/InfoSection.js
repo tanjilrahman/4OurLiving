@@ -9,7 +9,7 @@ const InfoSection = ({ left, image, header, display, body }) => {
             <img
               src={star}
               alt="star"
-              className="hidden lg:block absolute top-24 left-[72px] z-10"
+              className="absolute w-9 md:w-11 lg:w-auto top-9 left-4 md:top-14 md:left-9 lg:top-24 lg:left-[72px] z-10"
             />
             <div>
               <img
@@ -25,7 +25,7 @@ const InfoSection = ({ left, image, header, display, body }) => {
             <img
               src={star}
               alt="star"
-              className="hidden lg:block absolute top-52 right-[72px] z-10"
+              className="absolute w-9 top-32 right-3 z-10"
             />
             <div>
               <img
@@ -52,7 +52,7 @@ const InfoSection = ({ left, image, header, display, body }) => {
             <img
               src={star}
               alt="star"
-              className="hidden lg:block absolute top-52 right-[72px] z-10"
+              className="absolute md:w-11 lg:w-auto md:top-36 md:right-10 lg:top-52 lg:right-[72px] z-10"
             />
             <div>
               <img

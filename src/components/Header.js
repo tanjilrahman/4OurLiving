@@ -65,7 +65,7 @@ const Header = () => {
               </a>
 
               <a
-                href="mailto: "
+                href="mailto: 4ourlivingofficial@gmail.com"
                 className="px-4 py-2 bg-primary rounded-full font-bold text-white hover:cursor-pointer hover:bg-secondary hover:ring-2 hover:ring-primary hover:text-primary"
               >
                 <p>Contact us</p>
@@ -103,9 +103,12 @@ const Header = () => {
           )}
         </div>
 
-        <div className="hidden md:block ml-auto px-4 py-2 md:px-8 md:py-2 lg:px-10 lg:py-4 text-xs md:text-base bg-primary rounded-full font-bold text-white hover:cursor-pointer hover:bg-secondary hover:ring-2 hover:ring-primary hover:text-primary">
+        <a
+          href="mailto: 4ourlivingofficial@gmail.com"
+          className="hidden md:block ml-auto px-4 py-2 md:px-8 md:py-2 lg:px-10 lg:py-4 text-xs md:text-base bg-primary rounded-full font-bold text-white hover:cursor-pointer hover:bg-secondary hover:ring-2 hover:ring-primary hover:text-primary"
+        >
           <p>Contact us</p>
-        </div>
+        </a>
       </div>
     </header>
   );

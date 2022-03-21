@@ -13,8 +13,8 @@ function App() {
       <InfoSection
         left={true}
         image="/images/2.jpg"
-        header="Plannet"
-        display="For our plannet"
+        header="Planet"
+        display="For our planet"
         body="If you are on the lookout for a fully compliant waste collection and management service, Four Our Living can assist you at every step of the removal and disposal process for multi-family residential homes such as apartment buildings, jointly owned dwellings, retirement communities and student accommodation."
       />
       <InfoSection

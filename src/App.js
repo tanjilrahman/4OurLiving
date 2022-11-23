@@ -28,7 +28,7 @@ function App() {
         left={true}
         image="/images/4.jpg"
         header="Ourselves"
-        display="For our ourselves"
+        display="For ourselves"
         body="Our services are designed to include the processes and actions required to manage waste from its inception to its final disposal.
         Functioning with the communities’ welfare in mind, the residents will be satisfied with our services from the very beginning till the end."
       />

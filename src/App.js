@@ -39,6 +39,34 @@ function App() {
         display="For our future"
         body="While the residents are unquestionably happy with our performance, the management is equally content as our services keep their properties presentable and organized during leases. Our waste collection & rubbish removal team do the hard work, so you don't have to."
       />
+      <InfoSection
+        left={true}
+        image="/images/6.png"
+        header="Valet Service"
+        display="Trash Valet"
+        body="Experience convenience with 4 Our Living's Trash Valet service. Effortlessly manage your waste disposal, as our dedicated team ensures prompt and hassle-free collection, making daily living a breeze."
+      />
+      <InfoSection
+        left={false}
+        image="/images/7.png"
+        header="HTD residential"
+        display="Package Delivery Valet"
+        body="On-site delivery management service that eliminates all the stress of package management and brings packages from your mailroom straight to your residents homes at a fraction of the price and a marketable amenity."
+      />
+      <InfoSection
+        left={true}
+        image="/images/8.png"
+        header="Cleaning"
+        display="Cleaning Service"
+        body="Elevate your home vibes with 4 Our Living's Cleaning Magic! Our skilled crew turns chores into charm, leaving your space sparkling and your living experience extraordinary."
+      />
+      <InfoSection
+        left={false}
+        image="/images/9.png"
+        header="Furry Friends"
+        display="Dog Walking"
+        body="Keep your furry friend happy and healthy with our reliable dog walking service. Our experienced and insured walkers will take your dog for a refreshing walk, tailored to their individual needs and preferences. We offer a variety of walk lengths and times to fit your schedule and budget."
+      />
       <Footer />
     </div>
   );
